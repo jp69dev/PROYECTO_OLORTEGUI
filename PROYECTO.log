@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.20)  30 MAY 2026 17:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.20)  30 MAY 2026 20:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -298,6 +298,26 @@ File: pppdftex.def 2024/08/20 v0.6b Pdfpages driver for pdfTeX (AM)
 \c@AM@survey=\count303
 \AM@templatesizebox=\box62
 )
+(C:\Users\asus_\AppData\Roaming\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen183
+\lightrulewidth=\dimen184
+\cmidrulewidth=\dimen185
+\belowrulesep=\dimen186
+\belowbottomsep=\dimen187
+\aboverulesep=\dimen188
+\abovetopsep=\dimen189
+\cmidrulesep=\dimen190
+\cmidrulekern=\dimen191
+\defaultaddspace=\dimen192
+\@cmidla=\count304
+\@cmidlb=\count305
+\@aboverulesep=\dimen193
+\@belowrulesep=\dimen194
+\@thisruleclass=\count306
+\@lastruleclass=\count307
+\@thisrulewidth=\dimen195
+)
 (C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 )
@@ -317,23 +337,23 @@ Package: amstext 2024/11/17 v2.01 AMS text
 (C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks28
-\ex@=\dimen183
+\ex@=\dimen196
 ))
 (C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen184
+\pmbraise@=\dimen197
 )
 (C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count304
+\inf@bad=\count308
 LaTeX Info: Redefining \frac on input line 233.
-\uproot@=\count305
-\leftroot@=\count306
+\uproot@=\count309
+\leftroot@=\count310
 LaTeX Info: Redefining \overline on input line 398.
 LaTeX Info: Redefining \colon on input line 409.
-\classnum@=\count307
-\DOTSCASE@=\count308
+\classnum@=\count311
+\DOTSCASE@=\count312
 LaTeX Info: Redefining \ldots on input line 495.
 LaTeX Info: Redefining \dots on input line 498.
 LaTeX Info: Redefining \cdots on input line 619.
@@ -343,30 +363,30 @@ LaTeX Info: Redefining \big on input line 721.
 LaTeX Info: Redefining \Big on input line 722.
 LaTeX Info: Redefining \bigg on input line 723.
 LaTeX Info: Redefining \Bigg on input line 724.
-\big@size=\dimen185
+\big@size=\dimen198
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
-\macc@depth=\count309
+\macc@depth=\count313
 LaTeX Info: Redefining \bmod on input line 904.
 LaTeX Info: Redefining \pmod on input line 909.
 LaTeX Info: Redefining \smash on input line 939.
 LaTeX Info: Redefining \relbar on input line 969.
 LaTeX Info: Redefining \Relbar on input line 970.
-\c@MaxMatrixCols=\count310
+\c@MaxMatrixCols=\count314
 \dotsspace@=\muskip17
-\c@parentequation=\count311
-\dspbrk@lvl=\count312
+\c@parentequation=\count315
+\dspbrk@lvl=\count316
 \tag@help=\toks29
-\row@=\count313
-\column@=\count314
-\maxfields@=\count315
+\row@=\count317
+\column@=\count318
+\maxfields@=\count319
 \andhelp@=\toks30
-\eqnshift@=\dimen186
-\alignsep@=\dimen187
-\tagshift@=\dimen188
-\tagwidth@=\dimen189
-\totwidth@=\dimen190
-\lineht@=\dimen191
+\eqnshift@=\dimen199
+\alignsep@=\dimen256
+\tagshift@=\dimen257
+\tagwidth@=\dimen258
+\totwidth@=\dimen259
+\lineht@=\dimen260
 \@envbody=\toks31
 \multlinegap=\skip103
 \multlinetaggap=\skip104
@@ -401,22 +421,22 @@ Package: mathtools 2024/10/04 v1.31 mathematical typesetting tools
 (C:\Program Files\MiKTeX\tex/latex/mathtools\mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
-\g_MT_multlinerow_int=\count316
-\l_MT_multwidth_dim=\dimen192
+\g_MT_multlinerow_int=\count320
+\l_MT_multwidth_dim=\dimen261
 \origjot=\skip105
-\l_MT_shortvdotswithinadjustabove_dim=\dimen193
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen194
-\l_MT_above_intertext_sep=\dimen195
-\l_MT_below_intertext_sep=\dimen196
-\l_MT_above_shortintertext_sep=\dimen197
-\l_MT_below_shortintertext_sep=\dimen198
+\l_MT_shortvdotswithinadjustabove_dim=\dimen262
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen263
+\l_MT_above_intertext_sep=\dimen264
+\l_MT_below_intertext_sep=\dimen265
+\l_MT_above_shortintertext_sep=\dimen266
+\l_MT_below_shortintertext_sep=\dimen267
 \xmathstrut@box=\box65
-\xmathstrut@dim=\dimen199
+\xmathstrut@dim=\dimen268
 )
 (C:\Users\asus_\AppData\Roaming\MiKTeX\tex/latex/wrapfig\wrapfig.sty
-\wrapoverhang=\dimen256
-\WF@size=\dimen257
-\c@WF@wrappedlines=\count317
+\wrapoverhang=\dimen269
+\WF@size=\dimen270
+\c@WF@wrappedlines=\count321
 \WF@box=\box66
 \WF@everypar=\toks33
 Package: wrapfig 2003/01/31  v 3.6
@@ -426,27 +446,27 @@ Package: overpic 2024/01/06 2.1 picture overlays (RN)
 
 (C:\Users\asus_\AppData\Roaming\MiKTeX\tex/latex/eepic\epic.sty
 Enhancements to Picture Environment. Version 1.2 - Released June 1, 1986
-\@@multicnt=\count318
-\d@lta=\count319
-\@delta=\dimen258
-\@@delta=\dimen259
-\@gridcnt=\count320
-\@joinkind=\count321
-\@dotgap=\dimen260
-\@ddotgap=\dimen261
-\@x@diff=\count322
-\@y@diff=\count323
-\x@diff=\dimen262
-\y@diff=\dimen263
+\@@multicnt=\count322
+\d@lta=\count323
+\@delta=\dimen271
+\@@delta=\dimen272
+\@gridcnt=\count324
+\@joinkind=\count325
+\@dotgap=\dimen273
+\@ddotgap=\dimen274
+\@x@diff=\count326
+\@y@diff=\count327
+\x@diff=\dimen275
+\y@diff=\dimen276
 \@dotbox=\box67
-\num@segments=\count324
-\num@segmentsi=\count325
+\num@segments=\count328
+\num@segmentsi=\count329
 \@datafile=\read3
 )
 \OVP@box=\box68
 ) (C:\Users\asus_\AppData\Roaming\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count326
+\c@float@type=\count330
 \float@exts=\toks34
 \float@box=\box69
 \@float@everytoks=\toks35
@@ -455,17 +475,17 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 (C:\Users\asus_\AppData\Roaming\MiKTeX\tex/latex/caption\subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
 Package caption Info: New subtype `subfigure' on input line 238.
-\c@subfigure=\count327
+\c@subfigure=\count331
 Package caption Info: New subtype `subtable' on input line 238.
-\c@subtable=\count328
+\c@subtable=\count332
 )
 (C:\Program Files\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty
 (C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
 (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
 (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
 \pgfutil@everybye=\toks36
-\pgfutil@tempdima=\dimen264
-\pgfutil@tempdimb=\dimen265
+\pgfutil@tempdima=\dimen277
+\pgfutil@tempdimb=\dimen278
 )
 (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
 \pgfutil@abb=\box71
@@ -489,26 +509,26 @@ Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
 tex
 \pgfkeys@tmptoks=\toks39
 ))
-\pgf@x=\dimen266
-\pgf@y=\dimen267
-\pgf@xa=\dimen268
-\pgf@ya=\dimen269
-\pgf@xb=\dimen270
-\pgf@yb=\dimen271
-\pgf@xc=\dimen272
-\pgf@yc=\dimen273
-\pgf@xd=\dimen274
-\pgf@yd=\dimen275
+\pgf@x=\dimen279
+\pgf@y=\dimen280
+\pgf@xa=\dimen281
+\pgf@ya=\dimen282
+\pgf@xb=\dimen283
+\pgf@yb=\dimen284
+\pgf@xc=\dimen285
+\pgf@yc=\dimen286
+\pgf@xd=\dimen287
+\pgf@yd=\dimen288
 \w@pgf@writea=\write3
 \r@pgf@reada=\read4
-\c@pgf@counta=\count329
-\c@pgf@countb=\count330
-\c@pgf@countc=\count331
-\c@pgf@countd=\count332
+\c@pgf@counta=\count333
+\c@pgf@countb=\count334
+\c@pgf@countc=\count335
+\c@pgf@countd=\count336
 \t@pgf@toka=\toks40
 \t@pgf@tokb=\toks41
 \t@pgf@tokc=\toks42
-\pgf@sys@id@count=\count333
+\pgf@sys@id@count=\count337
  (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
 )
@@ -522,8 +542,8 @@ File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
 )))
 (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfsyssoftpath@smallbuffer@items=\count334
-\pgfsyssoftpath@bigbuffer@items=\count335
+\pgfsyssoftpath@smallbuffer@items=\count338
+\pgfsyssoftpath@bigbuffer@items=\count339
 )
 (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
@@ -534,8 +554,8 @@ Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
 (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex
 (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex)
 (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
-\pgfmath@dimen=\dimen276
-\pgfmath@count=\count336
+\pgfmath@dimen=\dimen289
+\pgfmath@count=\count340
 \pgfmath@box=\box72
 \pgfmath@toks=\toks43
 \pgfmath@stack@operand=\toks44
@@ -555,55 +575,55 @@ tex)
 (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmeti
 cs.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex
 ) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count337
+\c@pgfmathroundto@lastzeros=\count341
 ))
 (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfint.code.tex)
 (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@picminx=\dimen277
-\pgf@picmaxx=\dimen278
-\pgf@picminy=\dimen279
-\pgf@picmaxy=\dimen280
-\pgf@pathminx=\dimen281
-\pgf@pathmaxx=\dimen282
-\pgf@pathminy=\dimen283
-\pgf@pathmaxy=\dimen284
-\pgf@xx=\dimen285
-\pgf@xy=\dimen286
-\pgf@yx=\dimen287
-\pgf@yy=\dimen288
-\pgf@zx=\dimen289
-\pgf@zy=\dimen290
+\pgf@picminx=\dimen290
+\pgf@picmaxx=\dimen291
+\pgf@picminy=\dimen292
+\pgf@picmaxy=\dimen293
+\pgf@pathminx=\dimen294
+\pgf@pathmaxx=\dimen295
+\pgf@pathminy=\dimen296
+\pgf@pathmaxy=\dimen297
+\pgf@xx=\dimen298
+\pgf@xy=\dimen299
+\pgf@yx=\dimen300
+\pgf@yy=\dimen301
+\pgf@zx=\dimen302
+\pgf@zy=\dimen303
 )
 (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.t
 ex
 File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@path@lastx=\dimen291
-\pgf@path@lasty=\dimen292
+\pgf@path@lastx=\dimen304
+\pgf@path@lasty=\dimen305
 )
 (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@shorten@end@additional=\dimen293
-\pgf@shorten@start@additional=\dimen294
+\pgf@shorten@end@additional=\dimen306
+\pgf@shorten@start@additional=\dimen307
 )
 (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfpic=\box73
 \pgf@hbox=\box74
 \pgf@layerbox@main=\box75
-\pgf@picture@serial@count=\count338
+\pgf@picture@serial@count=\count342
 )
 (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.te
 x
 File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgflinewidth=\dimen295
+\pgflinewidth=\dimen308
 )
 (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code
 .tex
 File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@pt@x=\dimen296
-\pgf@pt@y=\dimen297
-\pgf@pt@temp=\dimen298
+\pgf@pt@x=\dimen309
+\pgf@pt@y=\dimen310
+\pgf@pt@temp=\dimen311
 ) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
@@ -614,12 +634,12 @@ tex
 File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfarrowsep=\dimen299
+\pgfarrowsep=\dimen312
 ) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@max=\dimen300
-\pgf@sys@shading@range@num=\count339
-\pgf@shadingcount=\count340
+\pgf@max=\dimen313
+\pgf@sys@shading@range@num=\count343
+\pgf@shadingcount=\count344
 )
 (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
@@ -648,8 +668,8 @@ File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
 (C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@nodesepstart=\dimen301
-\pgf@nodesepend=\dimen302
+\pgf@nodesepstart=\dimen314
+\pgf@nodesepend=\dimen315
 )
 (C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
@@ -660,8 +680,8 @@ Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
 (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex))
 (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
 Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
-\pgffor@iter=\dimen303
-\pgffor@skip=\dimen304
+\pgffor@iter=\dimen316
+\pgffor@skip=\dimen317
 \pgffor@stack=\toks46
 \pgffor@toks=\toks47
 ))
@@ -671,32 +691,32 @@ Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
 (C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.
 tex
 File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@plot@mark@count=\count341
-\pgfplotmarksize=\dimen305
+\pgf@plot@mark@count=\count345
+\pgfplotmarksize=\dimen318
 )
-\tikz@lastx=\dimen306
-\tikz@lasty=\dimen307
-\tikz@lastxsaved=\dimen308
-\tikz@lastysaved=\dimen309
-\tikz@lastmovetox=\dimen310
-\tikz@lastmovetoy=\dimen311
-\tikzleveldistance=\dimen312
-\tikzsiblingdistance=\dimen313
+\tikz@lastx=\dimen319
+\tikz@lasty=\dimen320
+\tikz@lastxsaved=\dimen321
+\tikz@lastysaved=\dimen322
+\tikz@lastmovetox=\dimen323
+\tikz@lastmovetoy=\dimen324
+\tikzleveldistance=\dimen325
+\tikzsiblingdistance=\dimen326
 \tikz@figbox=\box78
 \tikz@figbox@bg=\box79
 \tikz@tempbox=\box80
 \tikz@tempbox@bg=\box81
-\tikztreelevel=\count342
-\tikznumberofchildren=\count343
-\tikznumberofcurrentchild=\count344
-\tikz@fig@count=\count345
+\tikztreelevel=\count346
+\tikznumberofchildren=\count347
+\tikznumberofcurrentchild=\count348
+\tikz@fig@count=\count349
  (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfmatrixcurrentrow=\count346
-\pgfmatrixcurrentcolumn=\count347
-\pgf@matrix@numberofcolumns=\count348
+\pgfmatrixcurrentrow=\count350
+\pgfmatrixcurrentcolumn=\count351
+\pgf@matrix@numberofcolumns=\count352
 )
-\tikz@expandcount=\count349
+\tikz@expandcount=\count353
 
 (C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
 rytopaths.code.tex
@@ -744,18 +764,18 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
  (C:\Users\asus_\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count350
+\c@section@level=\count354
 ) (C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count351
+\etb@tempcnta=\count355
 )
 (C:\Users\asus_\AppData\Roaming\MiKTeX\tex/generic/stringenc\stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen314
-\Hy@linkcounter=\count352
-\Hy@pagecounter=\count353
+\@linkdim=\dimen327
+\Hy@linkcounter=\count356
+\Hy@pagecounter=\count357
 
 (C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
@@ -765,7 +785,7 @@ Now handling font encoding PD1 ...
 (C:\Users\asus_\AppData\Roaming\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count354
+\Hy@SavedSpaceFactor=\count358
 
 (C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
@@ -780,14 +800,14 @@ Package hyperref Info: Plain pages OFF on input line 4210.
 Package hyperref Info: Backreferencing OFF on input line 4215.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4462.
-\c@Hy@tempcnt=\count355
+\c@Hy@tempcnt=\count359
 
 (C:\Program Files\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4801.
-\XeTeXLinkMargin=\dimen315
+\XeTeXLinkMargin=\dimen328
 
 (C:\Users\asus_\AppData\Roaming\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -796,9 +816,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count356
-\Field@Width=\dimen316
-\Fld@charsize=\dimen317
+\Fld@menulength=\count360
+\Field@Width=\dimen329
+\Fld@charsize=\dimen330
 Package hyperref Info: Hyper figures OFF on input line 6078.
 Package hyperref Info: Link nesting OFF on input line 6083.
 Package hyperref Info: Hyper index ON on input line 6086.
@@ -806,15 +826,15 @@ Package hyperref Info: backreferencing OFF on input line 6093.
 Package hyperref Info: Link coloring OFF on input line 6098.
 Package hyperref Info: Link coloring with OCG OFF on input line 6103.
 Package hyperref Info: PDF/A mode OFF on input line 6108.
-\Hy@abspage=\count357
-\c@Item=\count358
-\c@Hfootnote=\count359
+\Hy@abspage=\count361
+\c@Item=\count362
+\c@Hfootnote=\count363
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
-\Fld@listcount=\count360
-\c@bookmark@seq@number=\count361
+\Fld@listcount=\count364
+\c@bookmark@seq@number=\count365
 
 (C:\Users\asus_\AppData\Roaming\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.
 sty
@@ -833,10 +853,10 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip106
 )
-Package hyperref Info: Option `colorlinks' set `false' on input line 81.
+Package hyperref Info: Option `colorlinks' set `false' on input line 88.
 ) (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count362
+\l__color_backend_stack_int=\count366
 )
 (PROYECTO.aux
 LaTeX Info: Redefining \. on input line 11.
@@ -903,16 +923,16 @@ LaTeX Info: Redefining \% on input line 5.
 
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count363
-\scratchdimen=\dimen318
+\scratchcounter=\count367
+\scratchdimen=\dimen331
 \scratchbox=\box82
-\nofMPsegments=\count364
-\nofMParguments=\count365
+\nofMPsegments=\count368
+\nofMParguments=\count369
 \everyMPshowfont=\toks48
-\MPscratchCnt=\count366
-\MPscratchDim=\dimen319
-\MPnumerator=\count367
-\makeMPintoPDFobject=\count368
+\MPscratchCnt=\count370
+\MPscratchDim=\dimen332
+\MPnumerator=\count371
+\makeMPintoPDFobject=\count372
 \everyMPtoPDFconversion=\toks49
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1102,12 +1122,15 @@ Overfull \hbox (12.95105pt too wide) detected at line 109
 \tf@toc=\write5
 \openout5 = `PROYECTO.toc'.
 
- (CAPITULO_1_INTRODUCCION/INTRODUCCION.tex)
-(CAPITULO_2_FUNDAMENTO TEORICO/FUNDAMENTO TEORICO.tex [5] [6]
-Overfull \vbox (39.02693pt too high) has occurred while \output is active []
-
-
-[7])
+ (CAPITULO_1_INTRODUCCION/INTRODUCCION.tex
+<example-image-a.pdf, id=601, 321.2pt x 240.9pt>
+File: example-image-a.pdf Graphic file (type pdf)
+<use example-image-a.pdf>
+Package pdftex.def Info: example-image-a.pdf  used on input line 39.
+(pdftex.def)             Requested size: 362.37569pt x 271.79109pt.
+)
+(CAPITULO_2_FUNDAMENTO TEORICO/FUNDAMENTO TEORICO.tex [5] [6 <C:/Users/asus_/Ap
+pData/Roaming/MiKTeX/tex/latex/mwe/example-image-a.pdf>])
 (CAPITULO_3_MODELADO ANALITICO DE LA DINAMICA DEL MAQUINADO CNC/MODELADO.tex)
 (CAPITULO_4_APLICACIÓN DE LOS MODELOS CINEMATICOS Y CINETICOS/APLICACION.tex)
 (CAPITULO_5_RESUMEN DE RESULTADOS/RESUMEN.tex)
@@ -1118,11 +1141,11 @@ Overfull \vbox (39.02693pt too high) has occurred while \output is active []
 (CAPITULO_10_ANALISIS ECONOMICO/ANALISIS.tex)
 (CAPITULO_11_ARCHIVO GRAFICO/ARCHIVO.tex)
 (CAPITULO_12_CONCLUSIONES Y RECOMENDACIONES/CONCLUSIONES.tex)
-(ANEXOS/ANEXOS.tex) [8] [9]
+(ANEXOS/ANEXOS.tex) [7] [8]
 Overfull \vbox (2358.3121pt too high) has occurred while \output is active []
 
 
-[10] (PROYECTO.aux
+[9] (PROYECTO.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -1134,27 +1157,29 @@ Package rerunfilecheck Info: File `PROYECTO.out' has not changed.
 (rerunfilecheck)             Checksum: 9A4D280A766610815F1E32F36DC8D0D4;20348.
  ) 
 Here is how much of TeX's memory you used:
- 26917 strings out of 467833
- 490078 string characters out of 5426854
- 913071 words of memory out of 5000000
- 55175 multiletter control sequences out of 15000+600000
- 639763 words of font info for 73 fonts, out of 8000000 for 9000
+ 27016 strings out of 467833
+ 491955 string characters out of 5426854
+ 920127 words of memory out of 5000000
+ 55268 multiletter control sequences out of 15000+600000
+ 640447 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,17n,97p,1072b,818s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/asus_/AppData/Roaming/MiKTeX/fonts/type1/public/cm-super/sfbx1200.p
-fb><C:/Users/asus_/AppData/Roaming/MiKTeX/fonts/type1/public/cm-super/sfbx1440.
-pfb><C:/Users/asus_/AppData/Roaming/MiKTeX/fonts/type1/public/cm-super/sfbx1728
-.pfb><C:/Users/asus_/AppData/Roaming/MiKTeX/fonts/type1/public/cm-super/sfbx207
-4.pfb><C:/Users/asus_/AppData/Roaming/MiKTeX/fonts/type1/public/cm-super/sfbx24
-88.pfb><C:/Users/asus_/AppData/Roaming/MiKTeX/fonts/type1/public/cm-super/sfcc2
-074.pfb><C:/Users/asus_/AppData/Roaming/MiKTeX/fonts/type1/public/cm-super/sfrm
-1200.pfb><C:/Users/asus_/AppData/Roaming/MiKTeX/fonts/type1/public/cm-super/sfr
-m1440.pfb><C:/Users/asus_/AppData/Roaming/MiKTeX/fonts/type1/public/cm-super/sf
-rm1728.pfb><C:/Users/asus_/AppData/Roaming/MiKTeX/fonts/type1/public/cm-super/s
-frm2074.pfb>
-Output written on PROYECTO.pdf (10 pages, 402682 bytes).
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program 
+Files/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/asus_/AppData/Roaming/M
+iKTeX/fonts/type1/public/cm-super/sfbx1200.pfb><C:/Users/asus_/AppData/Roaming/
+MiKTeX/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Users/asus_/AppData/Roaming
+/MiKTeX/fonts/type1/public/cm-super/sfbx1728.pfb><C:/Users/asus_/AppData/Roamin
+g/MiKTeX/fonts/type1/public/cm-super/sfbx2074.pfb><C:/Users/asus_/AppData/Roami
+ng/MiKTeX/fonts/type1/public/cm-super/sfbx2488.pfb><C:/Users/asus_/AppData/Roam
+ing/MiKTeX/fonts/type1/public/cm-super/sfcc2074.pfb><C:/Users/asus_/AppData/Roa
+ming/MiKTeX/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Users/asus_/AppData/Ro
+aming/MiKTeX/fonts/type1/public/cm-super/sfrm1440.pfb><C:/Users/asus_/AppData/R
+oaming/MiKTeX/fonts/type1/public/cm-super/sfrm1728.pfb><C:/Users/asus_/AppData/
+Roaming/MiKTeX/fonts/type1/public/cm-super/sfrm2074.pfb><C:/Users/asus_/AppData
+/Roaming/MiKTeX/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on PROYECTO.pdf (9 pages, 450727 bytes).
 PDF statistics:
- 683 PDF objects out of 1000 (max. 8388607)
- 118 named destinations out of 1000 (max. 500000)
- 857 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 699 PDF objects out of 1000 (max. 8388607)
+ 119 named destinations out of 1000 (max. 500000)
+ 862 words of extra memory for PDF output out of 10000 (max. 10000000)
 

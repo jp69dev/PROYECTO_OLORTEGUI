@@ -1,9 +1,9 @@
 \babel@toc {spanish}{}\relax 
-\contentsline {section}{\numberline {I}INTRODUCCIÓN}{7}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Importancia del Modelado y Simulación de \ldots }{7}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Trabajos previos en Modelado y Simulación Dinámica de \ldots }{7}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Planteamiento del Problema a resolver}{7}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4}Objetivos}{7}{subsection.1.4}%
+\contentsline {section}{\numberline {I}INTRODUCCIÓN}{5}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Importancia del Modelado y Simulación de \ldots }{5}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Trabajos previos en Modelado y Simulación Dinámica de \ldots }{5}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Planteamiento del Problema a resolver}{5}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Objetivos}{5}{subsection.1.4}%
 \contentsline {section}{\numberline {II}FUNDAMENTO TEÓRICO}{7}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Máquinas CNC}{7}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Historia de las Máquinas CNC}{7}{subsection.2.2}%
@@ -22,88 +22,88 @@
 \contentsline {subsubsection}{\numberline {2.9.3}Campo magnético e inducción}{7}{subsubsection.2.9.3}%
 \contentsline {subsubsection}{\numberline {2.9.4}Régimen de operación y curva característica}{7}{subsubsection.2.9.4}%
 \contentsline {subsubsection}{\numberline {2.9.5}Especificaciones de ingeniería}{7}{subsubsection.2.9.5}%
-\contentsline {paragraph}{Requerimientos funcionales}{7}{paragraph*.1}%
-\contentsline {paragraph}{Requerimientos eléctricos}{8}{paragraph*.2}%
-\contentsline {paragraph}{Requerimientos mecánicos}{8}{paragraph*.3}%
-\contentsline {paragraph}{Seguridad, Operación y Ambiente de trabajo}{8}{paragraph*.4}%
-\contentsline {paragraph}{Normas básicas y criterios de aceptación}{8}{paragraph*.5}%
-\contentsline {section}{\numberline {III}MODELADO ANALÍTICO DE LA DINÁMICA DEL MAQUINADO CNC}{10}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Modelo Analítico de la Cinemática 3D del proceso de fabricación maquinado con CNC de un impulsor de turbina (o impulsor de bomba, o propulsor, o engranaje cónico helicoidal)}{10}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.1}\ldots }{10}{subsubsection.3.1.1}%
-\contentsline {subsubsection}{\numberline {3.1.2}\ldots }{10}{subsubsection.3.1.2}%
-\contentsline {subsubsection}{\numberline {3.1.3}\ldots }{10}{subsubsection.3.1.3}%
-\contentsline {subsection}{\numberline {3.2}Modelo Analítico de la Cinética 3D del proceso de fabricación maquinado con CNC de un impulsor de turbina (o impulsor de bomba, o propulsor, o engranaje cónico helicoidal)}{10}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}\ldots }{10}{subsubsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2}\ldots }{10}{subsubsection.3.2.2}%
-\contentsline {subsubsection}{\numberline {3.2.3}\ldots }{10}{subsubsection.3.2.3}%
-\contentsline {section}{\numberline {IV}APLICACIÓN DE LOS MODELOS CINEMÁTICOS Y CINÉTICOS}{10}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Cálculo de \ldots }{10}{subsection.4.1}%
-\contentsline {subsubsection}{\numberline {4.1.1}XXXXX}{10}{subsubsection.4.1.1}%
-\contentsline {subsubsection}{\numberline {4.1.2}XXXXX}{10}{subsubsection.4.1.2}%
-\contentsline {subsubsection}{\numberline {4.1.3}XXXXX}{10}{subsubsection.4.1.3}%
-\contentsline {subsubsection}{\numberline {4.1.4}XXXXX}{10}{subsubsection.4.1.4}%
-\contentsline {subsection}{\numberline {4.2}Programa MATLAB para el ANÁLISIS CINEMÁTICO y CINÉTICO}{10}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Interface Gráfica de Usuario (GUI) para el ANÁLISIS CINEMÁTICO y CINÉTICO}{10}{subsection.4.3}%
-\contentsline {section}{\numberline {V}RESUMEN DE RESULTADOS}{10}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Posiciones}{10}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Velocidades}{10}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Aceleraciones}{10}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}Fuerzas y Momentos}{10}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5}Potencias}{10}{subsection.5.5}%
-\contentsline {subsection}{\numberline {5.6}Diagrama de \ldots }{10}{subsection.5.6}%
-\contentsline {section}{\numberline {VI}ELABORACIÓN DE PLANOS}{10}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Selección de Componentes}{10}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Plano General}{10}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}Planos de Detalle o Despieces}{10}{subsection.6.3}%
-\contentsline {subsection}{\numberline {6.4}Plano de Ensamble o Explotado}{10}{subsection.6.4}%
-\contentsline {subsection}{\numberline {6.5}Diagramas de fuerza, mando y conexión}{10}{subsection.6.5}%
-\contentsline {subsection}{\numberline {6.6}Diagramas de Montaje}{10}{subsection.6.6}%
-\contentsline {subsection}{\numberline {6.7}Diagramas de Estructura}{10}{subsection.6.7}%
-\contentsline {subsection}{\numberline {6.8}Diagramas de Transmisión mecánica}{10}{subsection.6.8}%
-\contentsline {subsection}{\numberline {6.9}Diagramas de Gabinete, protecciones y secuencia de operación}{10}{subsection.6.9}%
-\contentsline {section}{\numberline {VII}PROCESO DE FABRICACIÓN}{10}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Materiales}{10}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}Herramientas}{10}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3}Equipos}{10}{subsection.7.3}%
-\contentsline {subsection}{\numberline {7.4}Ensamble}{10}{subsection.7.4}%
-\contentsline {section}{\numberline {VIII}PRUEBAS, MEDICIONES Y VALIDACIÓN EXPERIMENTAL}{10}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Protocolo de Pruebas}{10}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}Instrumentos de Medición}{10}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3}Tablas de Datos}{10}{subsection.8.3}%
-\contentsline {subsection}{\numberline {8.4}Cálculos de Potencia y Eficiencia Experimentales}{10}{subsection.8.4}%
-\contentsline {subsection}{\numberline {8.5}Comparación con Valores Teóricos Calculados}{10}{subsection.8.5}%
-\contentsline {section}{\numberline {IX}SEGURIDAD, MANTENIMIENTO Y SOSTENIBILIDAD}{10}{section.9}%
-\contentsline {subsection}{\numberline {9.1}Seguridad eléctrica}{10}{subsection.9.1}%
-\contentsline {subsection}{\numberline {9.2}Seguridad mecánica}{10}{subsection.9.2}%
-\contentsline {subsection}{\numberline {9.3}Protección del usuario}{10}{subsection.9.3}%
-\contentsline {subsection}{\numberline {9.4}Mantenimiento preventivo}{10}{subsection.9.4}%
-\contentsline {subsection}{\numberline {9.5}Eficiencia energética}{10}{subsection.9.5}%
-\contentsline {subsection}{\numberline {9.6}Recomendaciones de operación}{10}{subsection.9.6}%
-\contentsline {section}{\numberline {X}ANÁLISIS ECONÓMICO}{10}{section.10}%
-\contentsline {subsection}{\numberline {10.1}Listado de Componentes}{10}{subsection.10.1}%
-\contentsline {subsection}{\numberline {10.2}Presupuesto}{10}{subsection.10.2}%
-\contentsline {section}{\numberline {XI}ARCHIVO GRÁFICO}{10}{section.11}%
-\contentsline {subsection}{\numberline {11.1}XXXXX}{10}{subsection.11.1}%
-\contentsline {subsection}{\numberline {11.2}XXXXX}{10}{subsection.11.2}%
-\contentsline {subsection}{\numberline {11.3}XXXXX}{10}{subsection.11.3}%
-\contentsline {subsection}{\numberline {11.4}XXXXX}{10}{subsection.11.4}%
-\contentsline {section}{\numberline {XII}CONCLUSIONES Y RECOMENDACIONES}{10}{section.12}%
-\contentsline {section}{REFERENCIAS}{10}{section.12}%
-\contentsline {section}{\numberline {XIII}Evaluación de cumplimiento de integrantes de grupo}{10}{section.13}%
-\contentsline {section}{\numberline {XIV}Avance No 00}{10}{section.14}%
-\contentsline {section}{\numberline {XV}\ldots }{10}{section.15}%
-\contentsline {section}{\numberline {XVI}\ldots }{10}{section.16}%
-\contentsline {section}{\numberline {XVII}Catálogo \ldots }{10}{section.17}%
-\contentsline {section}{\numberline {XVIII}Tabla \ldots }{10}{section.18}%
-\contentsline {section}{\numberline {XIX}Gráfica \ldots }{10}{section.19}%
-\contentsline {section}{\numberline {XX}Gráfica \ldots }{10}{section.20}%
-\contentsline {section}{\numberline {XXI}\ldots }{10}{section.21}%
-\contentsline {section}{\numberline {XXII}\ldots }{10}{section.22}%
-\contentsline {section}{\numberline {XXIII}Limpieza y Ordenamiento Final del Laboratorio}{10}{section.23}%
-\contentsline {section}{\numberline {XXIV}Ficha Técnica de Fresa de espiga de Punta redondeada de 3 mm en HSS -- Acabado}{10}{section.24}%
-\contentsline {section}{\numberline {XXV}Ficha Técnica de Fresa de espiga de 6 mm en HSS -- Desbaste}{10}{section.25}%
-\contentsline {section}{\numberline {XXVI}Ficha Técnica de Fresa de espiga de 10 mm en HSS -- Desbaste}{10}{section.26}%
-\contentsline {section}{\numberline {XXVII}Plano General}{10}{section.27}%
-\contentsline {section}{\numberline {XXVIII}Plano de Detalle (Despiece)}{10}{section.28}%
-\contentsline {section}{\numberline {XXIX}Plano en Vista Explotada}{10}{section.29}%
-\contentsline {section}{\numberline {XXX}Ficha Técnica de Motor XYZ 34-Z (Ejemplo)}{10}{section.30}%
+\contentsline {paragraph}{Requerimientos funcionales}{7}{paragraph*.3}%
+\contentsline {paragraph}{Requerimientos eléctricos}{7}{paragraph*.4}%
+\contentsline {paragraph}{Requerimientos mecánicos}{7}{paragraph*.5}%
+\contentsline {paragraph}{Seguridad, Operación y Ambiente de trabajo}{7}{paragraph*.6}%
+\contentsline {paragraph}{Normas básicas y criterios de aceptación}{7}{paragraph*.7}%
+\contentsline {section}{\numberline {III}MODELADO ANALÍTICO DE LA DINÁMICA DEL MAQUINADO CNC}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Modelo Analítico de la Cinemática 3D del proceso de fabricación maquinado con CNC de un impulsor de turbina (o impulsor de bomba, o propulsor, o engranaje cónico helicoidal)}{9}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}\ldots }{9}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}\ldots }{9}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}\ldots }{9}{subsubsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.2}Modelo Analítico de la Cinética 3D del proceso de fabricación maquinado con CNC de un impulsor de turbina (o impulsor de bomba, o propulsor, o engranaje cónico helicoidal)}{9}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}\ldots }{9}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}\ldots }{9}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}\ldots }{9}{subsubsection.3.2.3}%
+\contentsline {section}{\numberline {IV}APLICACIÓN DE LOS MODELOS CINEMÁTICOS Y CINÉTICOS}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Cálculo de \ldots }{9}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}XXXXX}{9}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}XXXXX}{9}{subsubsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.3}XXXXX}{9}{subsubsection.4.1.3}%
+\contentsline {subsubsection}{\numberline {4.1.4}XXXXX}{9}{subsubsection.4.1.4}%
+\contentsline {subsection}{\numberline {4.2}Programa MATLAB para el ANÁLISIS CINEMÁTICO y CINÉTICO}{9}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Interface Gráfica de Usuario (GUI) para el ANÁLISIS CINEMÁTICO y CINÉTICO}{9}{subsection.4.3}%
+\contentsline {section}{\numberline {V}RESUMEN DE RESULTADOS}{9}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Posiciones}{9}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Velocidades}{9}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Aceleraciones}{9}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Fuerzas y Momentos}{9}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Potencias}{9}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Diagrama de \ldots }{9}{subsection.5.6}%
+\contentsline {section}{\numberline {VI}ELABORACIÓN DE PLANOS}{9}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Selección de Componentes}{9}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Plano General}{9}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Planos de Detalle o Despieces}{9}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Plano de Ensamble o Explotado}{9}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Diagramas de fuerza, mando y conexión}{9}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}Diagramas de Montaje}{9}{subsection.6.6}%
+\contentsline {subsection}{\numberline {6.7}Diagramas de Estructura}{9}{subsection.6.7}%
+\contentsline {subsection}{\numberline {6.8}Diagramas de Transmisión mecánica}{9}{subsection.6.8}%
+\contentsline {subsection}{\numberline {6.9}Diagramas de Gabinete, protecciones y secuencia de operación}{9}{subsection.6.9}%
+\contentsline {section}{\numberline {VII}PROCESO DE FABRICACIÓN}{9}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Materiales}{9}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Herramientas}{9}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Equipos}{9}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Ensamble}{9}{subsection.7.4}%
+\contentsline {section}{\numberline {VIII}PRUEBAS, MEDICIONES Y VALIDACIÓN EXPERIMENTAL}{9}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Protocolo de Pruebas}{9}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Instrumentos de Medición}{9}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Tablas de Datos}{9}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Cálculos de Potencia y Eficiencia Experimentales}{9}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}Comparación con Valores Teóricos Calculados}{9}{subsection.8.5}%
+\contentsline {section}{\numberline {IX}SEGURIDAD, MANTENIMIENTO Y SOSTENIBILIDAD}{9}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Seguridad eléctrica}{9}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Seguridad mecánica}{9}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Protección del usuario}{9}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Mantenimiento preventivo}{9}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5}Eficiencia energética}{9}{subsection.9.5}%
+\contentsline {subsection}{\numberline {9.6}Recomendaciones de operación}{9}{subsection.9.6}%
+\contentsline {section}{\numberline {X}ANÁLISIS ECONÓMICO}{9}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Listado de Componentes}{9}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Presupuesto}{9}{subsection.10.2}%
+\contentsline {section}{\numberline {XI}ARCHIVO GRÁFICO}{9}{section.11}%
+\contentsline {subsection}{\numberline {11.1}XXXXX}{9}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2}XXXXX}{9}{subsection.11.2}%
+\contentsline {subsection}{\numberline {11.3}XXXXX}{9}{subsection.11.3}%
+\contentsline {subsection}{\numberline {11.4}XXXXX}{9}{subsection.11.4}%
+\contentsline {section}{\numberline {XII}CONCLUSIONES Y RECOMENDACIONES}{9}{section.12}%
+\contentsline {section}{REFERENCIAS}{9}{section.12}%
+\contentsline {section}{\numberline {XIII}Evaluación de cumplimiento de integrantes de grupo}{9}{section.13}%
+\contentsline {section}{\numberline {XIV}Avance No 00}{9}{section.14}%
+\contentsline {section}{\numberline {XV}\ldots }{9}{section.15}%
+\contentsline {section}{\numberline {XVI}\ldots }{9}{section.16}%
+\contentsline {section}{\numberline {XVII}Catálogo \ldots }{9}{section.17}%
+\contentsline {section}{\numberline {XVIII}Tabla \ldots }{9}{section.18}%
+\contentsline {section}{\numberline {XIX}Gráfica \ldots }{9}{section.19}%
+\contentsline {section}{\numberline {XX}Gráfica \ldots }{9}{section.20}%
+\contentsline {section}{\numberline {XXI}\ldots }{9}{section.21}%
+\contentsline {section}{\numberline {XXII}\ldots }{9}{section.22}%
+\contentsline {section}{\numberline {XXIII}Limpieza y Ordenamiento Final del Laboratorio}{9}{section.23}%
+\contentsline {section}{\numberline {XXIV}Ficha Técnica de Fresa de espiga de Punta redondeada de 3 mm en HSS -- Acabado}{9}{section.24}%
+\contentsline {section}{\numberline {XXV}Ficha Técnica de Fresa de espiga de 6 mm en HSS -- Desbaste}{9}{section.25}%
+\contentsline {section}{\numberline {XXVI}Ficha Técnica de Fresa de espiga de 10 mm en HSS -- Desbaste}{9}{section.26}%
+\contentsline {section}{\numberline {XXVII}Plano General}{9}{section.27}%
+\contentsline {section}{\numberline {XXVIII}Plano de Detalle (Despiece)}{9}{section.28}%
+\contentsline {section}{\numberline {XXIX}Plano en Vista Explotada}{9}{section.29}%
+\contentsline {section}{\numberline {XXX}Ficha Técnica de Motor XYZ 34-Z (Ejemplo)}{9}{section.30}%

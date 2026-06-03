@@ -1,116 +1,123 @@
-%-----------------------------
-% INTERLINEADO
-%-----------------------------
-\usepackage{setspace}
-\onehalfspacing
+%=============================================================================
+% CONFIGURACIÓN DE FORMATO BAJO NORMAS APA 7ma EDICIÓN (RIGUROSO)
+%=============================================================================
 
-%-----------------------------
-% IDIOMA
-%-----------------------------
-\usepackage[spanish]{babel}
+%-----------------------------------------------------------------------------
+% DISEÑO DE PÁGINA Y MÁRGENES (APA 7: 1 pulgada o 2.54 cm en los 4 lados)
+%-----------------------------------------------------------------------------
+\usepackage[a4paper, margin=2.54cm]{geometry}
 
-%-----------------------------
-% DISEÑO DE PÁGINA
-%-----------------------------
-\usepackage[a4paper,margin=1in]{geometry}
-
-%-----------------------------
-% PAQUETES BÁSICOS
-%-----------------------------
+%-----------------------------------------------------------------------------
+% NUMERACIÓN DE PÁGINAS Y ENCABEZADOS (Solución al problema de la esquina superior)
+%-----------------------------------------------------------------------------
 \usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{} % Borra por completo encabezados y pies de página anteriores
+
+% Configura el número de página estrictamente en la esquina superior derecha
+\rhead{\thepage} 
+\lhead{}  % En trabajos estudiantiles NO se usa encabezado de texto (Running Head)
+\cfoot{}  % Garantiza que no quede ningún número flotando abajo al centro
+
+% Elimina las líneas horizontales decorativas del encabezado y pie (Prohibidas en APA)
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% REDEFINICIÓN CRÍTICA DEL ESTILO 'PLAIN'
+% Evita que LaTeX mueva el número abajo en el índice o inicios de sección
+\fancypagestyle{plain}{
+	\fancyhf{}
+	\rhead{\thepage}
+	\renewcommand{\headrulewidth}{0pt}
+	\renewcommand{\footrulewidth}{0pt}
+}
+
+%-----------------------------------------------------------------------------
+% INTERLINEADO Y SANGRÍAS
+%-----------------------------------------------------------------------------
+\usepackage{setspace}
+\doublespacing % APA 7 exige doble espacio reglamentario en todo el texto, tablas y notas
+\setlength{\parindent}{1.27cm} % Sangría reglamentaria de 0.5 pulgadas (1.27 cm)
+
+%-----------------------------------------------------------------------------
+% IDIOMA Y TRADUCCIÓN
+%-----------------------------------------------------------------------------
+\usepackage[spanish, es-tabla]{babel} % 'es-tabla' evita que LaTeX escriba "Cuadro" en vez de "Tabla"
+
+%-----------------------------------------------------------------------------
+% FUENTES Y MATEMÁTICAS
+%-----------------------------------------------------------------------------
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath, amsfonts, amssymb, bm, mathtools}
+
+%-----------------------------------------------------------------------------
+% JERARQUÍA DE TÍTULO / ENCABEZADOS (NIVELES APA 7)
+%-----------------------------------------------------------------------------
 \usepackage{titlesec}
-\usepackage{tocloft}
+
+% Nota institucional: APA puro no numera los títulos. Como en ingeniería de la UNT 
+% se exige numeración decimal (1., 1.1), se conserva el formato numérico pero adaptado 
+% visualmente a la posición y estilo estricto de APA 7.
+
+% Nivel 1 (\section): Centrado, Negrita
+\titleformat{\section}[block]
+{\normalfont\large\bfseries\centering}{\thesection.}{1em}{}
+
+% Nivel 2 (\subsection): Alineado a la izquierda, Negrita
+\titleformat{\subsection}[block]
+{\normalfont\normalsize\bfseries}{\thesubsection.}{1em}{}
+
+% Nivel 3 (\subsubsection): Alineado a la izquierda, Negrita, Cursiva
+\titleformat{\subsubsection}[block]
+{\normalfont\normalsize\bfseries\itshape}{\thesubsubsection.}{1em}{}
+
+% Nivel 4 (\paragraph): Con sangría, Negrita, punto al final, texto continuo en la misma línea
+\titleformat{\paragraph}[runin]
+{\normalfont\normalsize\bfseries}{\theparagraph.}{1em}{}[.]
+\titlespacing*{\paragraph}{\parindent}{1.5ex plus 0.5ex minus 0.2ex}{1em}
+
+% Nivel 5 (\subparagraph): Con sangría, Negrita, Cursiva, punto al final, texto continuo en la misma línea
+\titleformat{\subparagraph}[runin]
+{\normalfont\normalsize\bfseries\itshape}{\thesubparagraph.}{1em}{}[.]
+\titlespacing*{\subparagraph}{\parindent}{1.5ex plus 0.5ex minus 0.2ex}{1em}
+
+%-----------------------------------------------------------------------------
+% TABLAS Y FIGURAS AUTOMATIZADAS (ESTILO APA 7)
+%-----------------------------------------------------------------------------
 \usepackage{graphicx}
 \usepackage{longtable}
 \usepackage{array}
-\usepackage{caption}
-\usepackage{pdfpages}
-\usepackage{booktabs}
-%-----------------------------
-% FUENTE Y MATEMÁTICAS
-%-----------------------------
-\usepackage[T1]{fontenc}
-\usepackage[utf8]{inputenc}
-
-\usepackage{amsmath}
-\usepackage{amsfonts}
-\usepackage{amssymb}
-\usepackage{bm}
-\usepackage{mathtools}
-
-%-----------------------------
-% FIGURAS Y GRÁFICOS
-%-----------------------------
-\usepackage{wrapfig}
-\usepackage{overpic}
+\usepackage{booktabs} % Indispensable para tablas APA (elimina líneas verticales)
 \usepackage{float}
-\usepackage{subcaption}
-% Configuración APA para captions
-\captionsetup{
-	font=normalsize,
-	labelfont=bf,
-	justification=raggedright,
-	singlelinecheck=false
-}
-%-----------------------------
-% TIKZ
-%-----------------------------
-\usepackage{tikz}
+\usepackage{caption}
 
-%-----------------------------
-% COLORES PERSONALIZADOS
-%-----------------------------
+% Automatización completa de los Captions:
+% El número ("Tabla 1") saldrá en NEGRITA. El título descriptivo irá ABAJO en una nueva línea y en CURSIVA.
+\captionsetup{
+	labelsep=newline,          % Envía el título a una línea nueva
+	justification=raggedright, % Alineado a la izquierda
+	singlelinecheck=false,     % Evita que captions cortos se centren solos
+	labelfont=bf,              % Etiqueta en Negrita
+	textfont=it                % Texto del título en Cursiva
+}
+
+%-----------------------------------------------------------------------------
+% OTROS PAQUETES DE TU PROYECTO
+%-----------------------------------------------------------------------------
+\usepackage{pdfpages}
+\usepackage{tocloft}
+\usepackage{tikz}
 \usepackage[dvipsnames]{xcolor}
 
-\definecolor{rojo}{rgb}{1,0,0}
-\definecolor{verde}{rgb}{0,1,0}
-\definecolor{azul}{rgb}{0.17,0.40,0.69}
-\definecolor{amarillo}{rgb}{1,1,0}
-\definecolor{cyan}{rgb}{0,1,1}
-\definecolor{magenta}{rgb}{1,0,1}
-\definecolor{naranja}{rgb}{1,0.5,0}
-\definecolor{gris}{rgb}{0.5,0.5,0.5}
-\definecolor{negro}{rgb}{0,0,0}
-\definecolor{blanco}{rgb}{1,1,1}
-\definecolor{grisclaro}{rgb}{0.9,0.9,0.9}
-\definecolor{celeste}{rgb}{0.7,0.85,1}
-\definecolor{rosa}{rgb}{1,0.75,0.8}
-\definecolor{verdeoliva}{rgb}{0.5,0.5,0.2}
-\definecolor{marron}{rgb}{0.6,0.4,0.2}
-
-%-----------------------------
+%-----------------------------------------------------------------------------
 % HIPERVÍNCULOS
-%-----------------------------
+%-----------------------------------------------------------------------------
 \usepackage[breaklinks]{hyperref}
 \hypersetup{
-	colorlinks=false,
-	pdfborder={0 0 0}
+	colorlinks=true,
+	linkcolor=black,
+	filecolor=black,      
+	urlcolor=blue,
+	citecolor=black
 }
-
-%-----------------------------
-% FORMATO DE SECCIONES
-%-----------------------------
-\renewcommand\thesection{\Roman{section}}
-\renewcommand\thesubsection{\arabic{section}.\arabic{subsection}}
-\renewcommand\thesubsubsection{\arabic{section}.\arabic{subsection}.\arabic{subsubsection}}
-
-\titleformat{\section}
-[block]
-{\normalfont\Large\bfseries\raggedright}
-{\thesection.}
-{1em}
-{}
-
-\titleformat{\subsection}
-[block]
-{\normalfont\large\bfseries\raggedright}
-{\thesubsection.}
-{1em}
-{}
-
-\titleformat{\subsubsection}
-[block]
-{\normalfont\normalsize\bfseries\raggedright}
-{\thesubsubsection.}
-{1em}
-{}

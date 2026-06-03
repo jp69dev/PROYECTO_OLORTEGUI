@@ -1,5 +1,5 @@
 [0] Config.pm:328> INFO - This is Biber 2.21
 [0] Config.pm:331> INFO - Logfile is 'PROYECTO.blg'
-[124] biber-MSWIN64:342> INFO - === 
-[895] Utils.pm:479> ERROR - Cannot find 'PROYECTO.bcf'!
-[895] Biber.pm:137> INFO - ERRORS: 1
+[228] biber-MSWIN64:342> INFO - === 
+[1535] Utils.pm:479> ERROR - Cannot find 'PROYECTO.bcf'!
+[1536] Biber.pm:137> INFO - ERRORS: 1
